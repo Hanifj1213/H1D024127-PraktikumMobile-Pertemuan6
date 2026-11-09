@@ -1,0 +1,18 @@
+# Dart-generated files and local caches
+.dart_tool/
+.packages
+.pub/
+build/
+coverage/
+
+# Editor and operating system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Course reference materials and local automation notes
+*.pdf
+AGENTS.md
+SUPERPROMPT*.md
